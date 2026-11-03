@@ -1,0 +1,5 @@
+export const ErrorCode = {
+  NONE: '',
+  VALIDATION_ERROR: 'VALIDATION_ERROR',
+  DECRYPTION_FAILED: 'DECRYPTION_FAILED',
+} as const;
